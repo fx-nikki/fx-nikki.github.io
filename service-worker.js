@@ -1,4 +1,4 @@
-const CACHE_NAME = 'FX-nikki';
+const CACHE_NAME = 'fx-nikki';
 // キャッシュするファイルのリスト
 // service-worker.jsファイルからの相対パスで指定
 const urlsToCache = [
