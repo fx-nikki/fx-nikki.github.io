@@ -1,6 +1,6 @@
 {
-  "name": "FX 日記",
-  "short_name": "FX 日記",
+  "name": "FX日記",
+  "short_name": "FX日記",
   "description": "FXトレーダー専用の収支管理アプリです。収支金額だけでなくトレード回数やpips表示にも切り替え可能",
   "start_url": "https://fx-nikki.github.io/",
   "display": "standalone",
