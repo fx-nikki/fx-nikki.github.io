@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fx-profit';
+const CACHE_NAME = 'FX日記';
 // キャッシュするファイルのリスト
 // service-worker.jsファイルからの相対パスで指定
 const urlsToCache = [
