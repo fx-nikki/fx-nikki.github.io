@@ -4,6 +4,8 @@
   "description": "FXトレーダー専用の収支管理アプリです。グラフ表示、年間累計表示に対応。収支金額だけでなくトレード回数やpips表示にも切り替え可能",
   "start_url": "https://fx-nikki.github.io/",
   "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#004d40",
   "orientation": "any",
   "icons": [
     {
