@@ -5,7 +5,7 @@
   "start_url": "https://fx-nikki.github.io/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#F0F2F5",
   "orientation": "any",
   "icons": [
     {
